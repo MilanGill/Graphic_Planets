@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\Милан Гилл Сингх\Desktop\C++\Planets\Main.cpp(140,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Милан Гилл Сингх\Desktop\C++\Planets\Main.cpp(214,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Милан Гилл Сингх\Desktop\C++\Planets\Main.cpp(213): message : во время компиляции функции-члена класс шаблон "int List<Planet>::n(void) const"
+C:\Users\Милан Гилл Сингх\Desktop\C++\Planets\Main.cpp(243): message : выполняется компиляция ссылки на экземпляр шаблон функции "int List<Planet>::n(void) const"
+C:\Users\Милан Гилл Сингх\Desktop\C++\Planets\Main.cpp(219): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Planet>"
+  Создание кода
+  1 of 116 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Planets.vcxproj -> C:\Users\Милан Гилл Сингх\Desktop\C++\Planets\x64\Release\Planets.exe
